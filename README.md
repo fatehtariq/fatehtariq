@@ -1,26 +1,35 @@
-Hi, I'm Fateh 👋
-I'm a software engineer with a passion for building amazing software. I have expertise in React, Vue, JavaScript, and Python.
+# Hi, I'm Fateh 👋
 
-🔭 What I'm currently working on
-I'm currently working on a web based web2print solution that utilizes React and fabricJS to create a powerful online graphics editor.
+I'm a software engineer with a passion for building user-friendly web applications. I have expertise in React, Vue, JavaScript, and Python.
 
-🌱 What I'm currently learning
-I'm always looking to expand my skillset, and right now I'm focused on improving my 
+## 🔭 What I'm currently working on
 
-💬 Ask me about
-React
-Vue
-JavaScript
-Python
-Web development best practices
-📫 How to reach me
-You can reach me via email at fatehtariq26@gmail.com.
+I'm currently working on a web application that utilizes React and a Python-based backend to allow users to track their fitness goals.
 
-🧑‍💻 My GitHub Stats
-Fateh's GitHub stats
+## 🌱 What I'm currently learning
 
-🚀 My Recent Projects
-React Weather App: A simple React-based weather app that utilizes the OpenWeatherMap API.
-Vue Task Manager: A task manager built with Vue and Firebase.
-Python Flask Blog: A simple blog built with Python and Flask.
+I'm always looking to expand my skillset, and right now I'm focused on improving my data visualization abilities with D3.js.
+
+## 💬 Ask me about
+
+- React
+- Vue
+- JavaScript
+- Python
+- Web development best practices
+
+## 📫 How to reach me
+
+You can reach me via email at [fateh@email.com](mailto:fateh@email.com).
+
+## 🧑‍💻 My GitHub Stats
+
+[![Fateh's GitHub stats](https://github-readme-stats.vercel.app/api?username=fateh&count_private=true&show_icons=true&theme=radical)](https://github.com/fateh/github-readme-stats)
+
+## 🚀 My Recent Projects
+
+- [React Weather App](https://github.com/fateh/react-weather-app): A simple React-based weather app that utilizes the OpenWeatherMap API.
+- [Vue Task Manager](https://github.com/fateh/vue-task-manager): A task manager built with Vue and Firebase.
+- [Python Flask Blog](https://github.com/fateh/flask-blog): A simple blog built with Python and Flask.
+
 Thanks for stopping by!
